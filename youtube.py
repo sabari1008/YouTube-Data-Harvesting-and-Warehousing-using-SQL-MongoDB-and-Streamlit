@@ -10,11 +10,11 @@ from datetime import datetime
 
 # SETTING PAGE CONFIGURATIONS
 #icon = Image.open("Youtube_logo.png")
-st.set_page_config(page_title= "Youtube Data Harvesting and Warehousing | By Samuel Solomon",
+st.set_page_config(page_title= "Youtube Data Harvesting and Warehousing | By Ponsabareeswari shanmugam",
                  #  page_icon= icon,
                    layout= "wide",
                    initial_sidebar_state= "expanded",
-                   menu_items={'About': """# This app is created by *Samuel Solomon!*"""})
+                   menu_items={'About': """# This app is created by *Ponsabareeswari shanmugam!*"""})
 
 # CREATING OPTION MENU
 with st.sidebar:
