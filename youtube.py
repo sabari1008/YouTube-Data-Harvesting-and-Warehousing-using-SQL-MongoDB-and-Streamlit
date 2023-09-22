@@ -34,7 +34,7 @@ db = client.youtube_data
 # CONNECTING WITH MYSQL DATABASE
 mydb = sql.connect(host="localhost",
                    user="root",
-                   password="SQL123@#sql",
+                   password="",
                    database= "youtube_data"
                   )
 mycursor = mydb.cursor(buffered=True)
