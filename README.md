@@ -11,7 +11,7 @@ DOMAIN : DATA SCIENCE
 DEMO VIDEO URL :https://youtu.be/a7Vx-j4XD00?si=QzofdI1hzVwwJTPm
 
 
-Linked in URL : https://www.linkedin.com/in/ponsabareeswari-s-92485b1bb/
+Linked in URL : https://www.linkedin.com/feed/update/urn:li:share:7116373915735638017/
 
 
 The application should have the following features:
