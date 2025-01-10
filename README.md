@@ -8,7 +8,7 @@ BATCH: D79
 
 DOMAIN : DATA SCIENCE
 
-DEMO VIDEO URL :https://youtu.be/a7Vx-j4XD00?si=QzofdI1hzVwwJTPm
+DEMO VIDEO URL :https://www.youtube.com/watch?v=qm29oFnWWvk
 
 
 Linked in URL : https://www.linkedin.com/feed/update/urn:li:share:7116373915735638017/
